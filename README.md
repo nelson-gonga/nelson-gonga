@@ -5,7 +5,7 @@ I'm a passionate **Computer Engineer** and **Software Engineer** with a keen int
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: PHP, JavaScript, C#, C++
-- Frameworks: React, Node.js
+- Frameworks: React, React Native, Node.js, Laravel. Bootstrap, MDB
 - Tools: Git, 
 - Databases: MySQL
 
