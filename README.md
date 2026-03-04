@@ -12,5 +12,5 @@ I'm a passionate **Computer Engineer** and **Software Engineer** with a keen int
 ## 📫 How to Reach Me
 
 - **Email**: nelson.joao.gonga@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nelson-gonga/
+- **LinkedIn**: https://www.linkedin.com/in/nelson-joão-gonga
 
