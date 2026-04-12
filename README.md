@@ -1,16 +1,17 @@
-# Hi there 👋, I'm Nelson João Gonga
+## Hi, I'm Nelson 👋
 
-I'm a passionate **Computer Engineer** and **Software Engineer** with a keen interest in developing scalable and efficient software solutions. 
+IT Engineer and University Lecturer based in Luanda, Angola.
+Creator of **CARYTTOON IT** — tech content in Portuguese.
 
-## 🛠️ Technologies & Tools
+**What I work with:**
+- 🌐 Computer Networks & Cybersecurity
+- 💻 Web Development
+- 🎓 Teaching Management IT & Computer Graphics
+- 📡 Cisco NETACAD Certified × 11
 
-- Programming Languages: PHP, JavaScript, C#, C++
-- Frameworks: React, React Native, Node.js, Laravel. Bootstrap, MDB
-- Tools: Git, 
-- Databases: MySQL
+**Languages:** Portuguese · English · French · Spanish
 
-## 📫 How to Reach Me
-
-- **Email**: nelson.joao.gonga@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nelson-joão-gonga
-
+**Find me:**
+🎥 YouTube → CARYTTOON IT
+💼 LinkedIn → Nelson João Gonga
+📧 nelson.joao.gonga@gmail.com
