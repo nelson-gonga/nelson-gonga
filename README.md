@@ -1,198 +1,354 @@
-<!-- HEADER BANNER -->
+<!-- BANNER TOPO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nelson%20Gonga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-</div>
-
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I'm+Nelson+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning%2C+always+building+%F0%9F%94%A5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,08142c,194b69,2578ab&height=230&section=header&text=Nelson%20Jo%C3%A3o%20Gonga&fontSize=54&fontColor=d9d9d9&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20Inform%C3%A1tico%20%7C%20Docente%20%7C%20Formador&descAlignY=58&descAlign=50&descSize=17&descColor=a56b30" width="100%"/>
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<!-- BADGES PRINCIPAIS -->
 <div align="center">
-  <a href="https://github.com/NelsonGonga">
-    <img src="https://komarev.com/ghpvc/?username=NelsonGonga&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+
+  <a href="mailto:nelson.joao.gonga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nelson.joao.gonga%40gmail.com-a56b30?style=for-the-badge&logo=gmail&logoColor=d9d9d9&labelColor=08142c" />
   </a>
   &nbsp;
-  <a href="https://github.com/NelsonGonga?tab=followers">
-    <img src="https://img.shields.io/github/followers/NelsonGonga?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
-  </a>
+  <img src="https://img.shields.io/badge/Telefone-%2B244%20927%20217%20417-2578ab?style=for-the-badge&logo=whatsapp&logoColor=d9d9d9&labelColor=08142c" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logo=briefcase" />
+  <img src="https://img.shields.io/badge/Localização-Luanda%2C%20Angola-194b69?style=for-the-badge&logo=googlemaps&logoColor=d9d9d9&labelColor=08142c" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=nelson-gonga&style=for-the-badge&color=194b69&labelColor=08142c&label=VISITAS+AO+PERFIL" />
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ABOUT ME -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" />
-  &nbsp;About Me
-</h2>
-
-```yaml
-name        : Nelson Gonga
-location    : Luanda, Angola 🌍
-role        : Software Engineer
-passion     : Turning ideas into elegant code
-languages   : [Portuguese, English]
-currently   : Building things that matter
-open_to     : Collaboration · Freelance · Full-Time roles
-```
-
-<br/>
-
----
-
-<!-- TECH STACK -->
-<h2>🛠️ Tech Stack & Tools</h2>
-
-<h4>Languages</h4>
-<div>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- PERFIL PROFISSIONAL -->
+<div align="center">
+  <h2>👤 Perfil Profissional</h2>
 </div>
-
-<h4>Frameworks & Libraries</h4>
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-<h4>Tools & Platforms</h4>
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-<br/>
-
----
-
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelsonGonga&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonGonga&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="175" />
+  <table width="80%">
+    <tr>
+      <td align="center">
+        <br/>
+        <p>
+          <em>
+            Engenheiro Informático com experiência em soluções tecnológicas de <strong>hardware, software e redes</strong>.<br/>
+            Actuou como <strong>Docente</strong>, <strong>Formador</strong>, <strong>Técnico de Suporte de TI</strong> e <strong>Desenvolvedor Web</strong>.<br/>
+            Proactivo, organizado e com capacidade de liderança.
+          </em>
+        </p>
+        <br/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonGonga&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
-</div>
-
-<br/>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<h2>🌐 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NelsonGonga&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" width="95%" />
-</div>
+<!-- EXPERIÊNCIA PROFISSIONAL -->
+<h2>💼 Experiência Profissional</h2>
 
 <br/>
 
----
+<table width="100%">
 
-<!-- FEATURED PROJECTS -->
-<h2>🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/NelsonGonga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonGonga&repo=NelsonGonga&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f97316" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- ACHIEVEMENTS -->
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NelsonGonga&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
-<br/>
-
----
-
-<!-- CURRENTLY LEARNING -->
-<h2>🌱 Currently Exploring</h2>
-
-<table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" /><br/>
-      <b>AI & ML</b>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/01-a56b30?style=for-the-badge" />
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" /><br/>
-      <b>Kubernetes</b>
+    <td width="96%" valign="top">
+      <strong>🏛️ Docente — Informática de Gestão e Computação & Informática</strong><br/>
+      <img src="https://img.shields.io/badge/Instituto%20Superior%20Metropolitano%20de%20Angola-2578ab?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Outubro%202025-a56b30?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Leccionação da disciplina de Informática de Gestão e Computação & Informática no ensino superior, com foco na integração entre tecnologia e gestão organizacional. Abordagem de sistemas de informação, ferramentas de produtividade, análise de dados e utilização de soluções digitais aplicadas à tomada de decisão em contextos empresariais.
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" /><br/>
-      <b>Rust</b>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/02-2578ab?style=for-the-badge" />
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" /><br/>
-      <b>GraphQL</b>
+    <td width="96%" valign="top">
+      <strong>🏛️ Docente — Computação Gráfica, Matemática Discreta I e Multimédia</strong><br/>
+      <img src="https://img.shields.io/badge/Instituto%20Superior%20Alvorecer%20da%20Juventude%20(ISPAJ)-2578ab?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Outubro%202025-a56b30?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Leccionação de Computação Gráfica, Matemática Discreta I e Multimédia em cursos de engenharia, com enfoque no desenvolvimento do raciocínio lógico, fundamentos matemáticos da computação e produção de conteúdos digitais. Exploração de ferramentas de design gráfico, princípios de comunicação visual e criação de projectos multimédia aplicados ao contexto académico e profissional.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/03-194b69?style=for-the-badge" />
+    </td>
+    <td width="96%" valign="top">
+      <strong>🎓 Formador — ISPAJ Huawei ICT Academy</strong><br/>
+      <img src="https://img.shields.io/badge/ISPAJ%20Huawei%20ICT%20Academy-194b69?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Junho%202025-d9d9d9?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Formação em tecnologias Huawei no âmbito da Academia ICT, preparando estudantes para certificações e competências em redes e infraestrutura tecnológica.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/04-2578ab?style=for-the-badge" />
+    </td>
+    <td width="96%" valign="top">
+      <strong>🖥️ Técnico de Suporte de TI | Consultor ODOO</strong><br/>
+      <img src="https://img.shields.io/badge/Syystem%20Tecnologias-2578ab?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Nov%202023%20—%20Mai%202024-d9d9d9?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Suporte técnico de TI e consultoria na implementação e configuração do sistema ERP <strong>ODOO</strong> para empresas clientes.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/05-194b69?style=for-the-badge" />
+    </td>
+    <td width="96%" valign="top">
+      <strong>🖥️ Técnico de Suporte de TI</strong><br/>
+      <img src="https://img.shields.io/badge/Micky%20Consultants%20and%20Partners-194b69?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Mai%202023%20—%20Nov%202023-d9d9d9?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Prestação de suporte técnico a utilizadores e empresas clientes, resolução de incidentes de hardware, software e conectividade de rede.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/06-a56b30?style=for-the-badge" />
+    </td>
+    <td width="96%" valign="top">
+      <strong>🌐 Desenvolvedor Web</strong><br/>
+      <img src="https://img.shields.io/badge/Dentec%20Tecnologias-a56b30?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Mar%202022%20—%20Jun%202022-d9d9d9?style=flat-square&labelColor=08142c" />
+      <br/><br/>
+      Desenvolvimento de soluções web para clientes, criando interfaces e funcionalidades adaptadas às necessidades do negócio.
+    </td>
+  </tr>
+
+</table>
+
+---
+
+<!-- EDUCAÇÃO -->
+<h2>🎓 Formação Académica</h2>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/🎓-08142c?style=for-the-badge" />
+    </td>
+    <td valign="top">
+      <strong>Licenciatura em Engenharia Informática</strong><br/>
+      <img src="https://img.shields.io/badge/ISPAJ%20—%20Instituto%20Superior%20Politécnico%20Alvorecer%20da%20Juventude-2578ab?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/2019%20—%202023-a56b30?style=flat-square&labelColor=08142c" />
+      <br/>
+      <ul>
+        <li>Engenharia de Software</li>
+        <li>Engenharia de Redes de Computadores</li>
+        <li>Engenharia de Hardware</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="4%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/📘-08142c?style=for-the-badge" />
+    </td>
+    <td valign="top">
+      <strong>Ensino Médio — Informática</strong><br/>
+      <img src="https://img.shields.io/badge/IMPTEL%20—%20Instituto%20Médio%20Politécnico%20de%20Telecomunicação-194b69?style=flat-square&labelColor=08142c" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/2015%20—%202018-a56b30?style=flat-square&labelColor=08142c" />
+      <br/>
+      <ul>
+        <li>Programação</li>
+        <li>Redes de Computadores</li>
+        <li>Hardware</li>
+      </ul>
     </td>
   </tr>
 </table>
 
+---
+
+<!-- TECNOLOGIAS & CERTIFICAÇÕES -->
+<h2>🛠️ Tecnologias & Ferramentas</h2>
+
 <br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,laravel,git,github,vscode&theme=dark&perline=6" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=08142c&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=08142c&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=08142c" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=08142c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-d9d9d9?style=for-the-badge&logo=github&logoColor=08142c&labelColor=194b69" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=08142c" />
+
+</div>
+
+<br/><br/>
 
 ---
 
-<!-- CONNECT -->
-<h2>🤝 Let's Connect</h2>
+<!-- CERTIFICAÇÕES -->
+<h2>🛡️ Competências & Certificações</h2>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 Competências Técnicas</h4>
+      <img src="https://img.shields.io/badge/CompTIA%20A%2B-a56b30?style=for-the-badge&logoColor=d9d9d9&labelColor=08142c" /><br/><br/>
+      <img src="https://img.shields.io/badge/IT%20Essentials-2578ab?style=for-the-badge&logoColor=d9d9d9&labelColor=08142c" /><br/><br/>
+      <img src="https://img.shields.io/badge/CompTIA%20Network%2B-194b69?style=for-the-badge&logoColor=d9d9d9&labelColor=08142c" /><br/><br/>
+      <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=08142c" /><br/><br/>
+      <img src="https://img.shields.io/badge/ODOO%20ERP-875A7B?style=for-the-badge&logo=odoo&logoColor=white&labelColor=08142c" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Certificações</h4>
+      <ul>
+        <li>Computer Hardware Basics</li>
+        <li>Cybersecurity Threat Management</li>
+        <li>Introduction to Cybersecurity</li>
+        <li>Introduction to IoT and Digital Transformation</li>
+        <li>IT Customer Support Basics</li>
+        <li>Network Addressing and Basic Troubleshooting</li>
+        <li>Network Defense</li>
+        <li>Network Support and Security</li>
+        <li>Network Basics</li>
+        <li>Network Devices and Initial Configuration</li>
+        <li>Operating System</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- IDIOMAS -->
+<h2>🌍 Idiomas</h2>
+
+<br/>
 
 <div align="center">
-  <a href="mailto:nelson.gonga@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+  <img src="https://img.shields.io/badge/🇦🇴%20Português-Nativo-08142c?style=for-the-badge&labelColor=2578ab" />
   &nbsp;
-  <a href="https://linkedin.com/in/nelsongonga">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/🇬🇧%20Inglês-Fluente-08142c?style=for-the-badge&labelColor=194b69" />
   &nbsp;
-  <a href="https://twitter.com/nelsongonga">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/🇫🇷%20Francês-Intermédio-08142c?style=for-the-badge&labelColor=a56b30" />
   &nbsp;
-  <a href="https://github.com/NelsonGonga">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/🇪🇸%20Espanhol-Intermédio-08142c?style=for-the-badge&labelColor=194b69" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇨🇳%20Mandarim-Básico-08142c?style=for-the-badge&labelColor=2578ab" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇩🇪%20Alemão-Básico-08142c?style=for-the-badge&labelColor=194b69" />
+
+</div>
+
+---
+
+<!-- ESTATÍSTICAS GITHUB -->
+<h2 align="center">📊 Estatísticas GitHub</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nelson-gonga&show_icons=true&bg_color=08142c&title_color=2578ab&icon_color=a56b30&text_color=d9d9d9&border_color=194b69&locale=pt-br&rank_icon=github" width="48%" />
+  &nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-gonga&layout=compact&bg_color=08142c&title_color=2578ab&text_color=d9d9d9&border_color=194b69&locale=pt-br&langs_count=8" width="40%" />
 </div>
 
 <br/>
 
-<!-- QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nelson-gonga&locale=pt_BR&background=08142c&ring=2578ab&fire=a56b30&currStreakLabel=d9d9d9&sideLabels=d9d9d9&dates=d9d9d9&border=194b69&currStreakNum=2578ab&sideNums=a56b30" width="55%" />
 </div>
+
+---
+
+<!-- CONTACTO -->
+<h2 align="center">📬 Contacto</h2>
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<div align="center">
+
+  <a href="mailto:nelson.joao.gonga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08142c" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nelson-gonga">
+    <img src="https://img.shields.io/badge/GitHub-nelson--gonga-d9d9d9?style=for-the-badge&logo=github&logoColor=08142c&color=d9d9d9&labelColor=194b69" />
+  </a>
+  &nbsp;
+  <a href="https://nelsonjoaogonga.lovestoblog.com/">
+    <img src="https://img.shields.io/badge/Portfólio-Website-a56b30?style=for-the-badge&logo=firefox&logoColor=d9d9d9&labelColor=08142c" />
+  </a>
+  &nbsp;
+  <a href="tel:+244927217417">
+    <img src="https://img.shields.io/badge/Telefone-%2B244%20927%20217%20417-2578ab?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=08142c" />
+  </a>
+
+</div>
+
+<br/><br/>
+
+<!-- RODAPÉ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,2578ab,194b69,08142c&height=120&section=footer" width="100%"/>
+</div>
