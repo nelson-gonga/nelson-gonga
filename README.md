@@ -335,7 +335,7 @@
     <img src="https://img.shields.io/badge/GitHub-nelson--gonga-d9d9d9?style=for-the-badge&logo=github&logoColor=08142c&color=d9d9d9&labelColor=194b69" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nelson-joao-gonga/">
+  <a href="http://nelsonjoaogonga.lovestoblog.com/">
     <img src="https://img.shields.io/badge/Portfólio-Website-a56b30?style=for-the-badge&logo=firefox&logoColor=d9d9d9&labelColor=08142c" />
   </a>
   &nbsp;
