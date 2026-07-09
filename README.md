@@ -61,12 +61,12 @@
       <img src="https://img.shields.io/badge/01-a56b30?style=for-the-badge" />
     </td>
     <td width="96%" valign="top">
-      <strong>🏛️ Docente — Informática de Gestão</strong><br/>
+      <strong>🏛️ Docente — Informática de Gestão e Computação & Informática</strong><br/>
       <img src="https://img.shields.io/badge/Instituto%20Superior%20Metropolitano%20de%20Angola-2578ab?style=flat-square&labelColor=08142c" />
       &nbsp;
       <img src="https://img.shields.io/badge/Outubro%202025-a56b30?style=flat-square&labelColor=08142c" />
       <br/><br/>
-      Leccionação da disciplina de Informática de Gestão no ensino superior, formando estudantes em ferramentas e sistemas de informação aplicados à gestão.
+      Leccionação da disciplina de Informática de Gestão e Computação & Informática no ensino superior, formando estudantes em ferramentas e sistemas de informação aplicados à gestão.
     </td>
   </tr>
 
@@ -77,12 +77,12 @@
       <img src="https://img.shields.io/badge/02-2578ab?style=for-the-badge" />
     </td>
     <td width="96%" valign="top">
-      <strong>🏛️ Docente — Computação Gráfica</strong><br/>
+      <strong>🏛️ Docente — Computação Gráfica, Matemática Discreta I, Mulimédia e Informática I</strong><br/>
       <img src="https://img.shields.io/badge/Instituto%20Superior%20Alvorecer%20da%20Juventude%20(ISPAJ)-2578ab?style=flat-square&labelColor=08142c" />
       &nbsp;
       <img src="https://img.shields.io/badge/Outubro%202025-a56b30?style=flat-square&labelColor=08142c" />
       <br/><br/>
-      Leccionação de Computação Gráfica no ensino superior, abordando design digital, ferramentas gráficas e fundamentos visuais aplicados à informática.
+      Leccionação de Computação Gráfica no ensino superior, abordando design digital, ferramentas gráficas, fundamentos visuais aplicados à informática, princípio de lógica de programação, equipamentos e técnologias de multimédia e programação em C++.
     </td>
   </tr>
 
